@@ -1,0 +1,40 @@
+# ──────────────────────────────────────────────
+# Retinal Vessel Segmentation — .gitignore
+# ──────────────────────────────────────────────
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Archive — original assignment files (kept locally, not in repo)
+archive/
+
+# Results are regenerable — optionally exclude
+# results/
