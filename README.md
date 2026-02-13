@@ -200,12 +200,11 @@ seg.set_config("add_dataset")
 ## 👤 Author
 
 **Abdo Hussam**
-- Course: CDS6334 — Visual Information Processing
-- Institution: Multimedia University (MMU)
-- Year: 2025
 
 ---
 
 ## 📄 License
 
-This project is developed for academic purposes as part of the CDS6334 Visual Information Processing course at MMU. The datasets are provided by the course instructor and are subject to academic use restrictions.
+MIT License - see [LICENSE](LICENSE) file for details.
+
+**Note:** The datasets used in this project are subject to their original licensing terms and are provided for evaluation purposes only.
