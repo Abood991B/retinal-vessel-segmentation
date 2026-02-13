@@ -101,11 +101,8 @@ The segmentation pipeline processes each fundus image through **9 sequential sta
 │   │   └── detailed_metrics.csv
 │   └── showcase_summary.png            # LinkedIn-ready overview figure
 │
-└── docs/                               # Documentation & reference materials
-    ├── METHODOLOGY.md                  # Detailed technical methodology
-    ├── IMPROVEMENTS.md                 # Summary of all enhancements made
-    ├── LINKEDIN_DESCRIPTION.md         # Ready-to-paste LinkedIn project text
-    └── REPORT.pdf                      # Academic report
+└── docs/                               # Documentation
+    └── METHODOLOGY.md                  # Detailed technical methodology
 ```
 
 ---
