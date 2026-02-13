@@ -199,7 +199,7 @@ seg.set_config("add_dataset")
 
 ## 👤 Author
 
-**Abdo Hussam**
+**Abdulrahman Baidaq**
 
 ---
 
