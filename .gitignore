@@ -36,5 +36,10 @@ Thumbs.db
 # Archive — original assignment files (kept locally, not in repo)
 archive/
 
+# Documentation (keep only METHODOLOGY.md public)
+docs/IMPROVEMENTS.md
+docs/LINKEDIN_DESCRIPTION.md
+docs/REPORT.pdf
+
 # Results are regenerable — optionally exclude
 # results/
