@@ -10,6 +10,18 @@
 
 <p align="center">
   <img src="results/showcase_summary.png" alt="Performance Overview" width="850"/>
+  </p>
+
+  **GroundTruth Sample:**
+  
+  <p align="center">
+  <img width="907" height="605" alt="14" src="https://github.com/user-attachments/assets/931bc50d-534d-486d-a046-7a6c74e87f07" />
+</p>
+
+**Output Sample:**
+
+<p align="center">
+  <img width="907" height="605" alt="14" src="https://github.com/user-attachments/assets/90c7f3a0-32be-4217-8e37-514d6c8db586" />
 </p>
 
 ## 📋 Overview
